@@ -1,0 +1,83 @@
+.btn{
+     color: white;
+    margin: 5px;
+    
+}
+.navbar-toggler-icon{
+     
+}
+.container-fluid .navbar-brand{
+    color: white;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+
+}
+ li{
+    display: inline;
+color: white;
+padding: 11px;
+text-align: center;
+}
+.badge{
+    color: black;
+    background-color: burlywood;
+ }
+ *{
+     margin: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+ }
+ .row{
+     margin: 0px;
+     text-align: center;
+ }
+   .icon{
+       display: inline-block;
+     color: white;
+     font-size: 30px;
+     position: relative;
+ }
+ .icon span{
+     border: 2px solid white;
+      
+     border-radius: 15px;
+     background-color: red;
+     color: white;
+     top: -5px;
+    left:-11px;
+    text-align: center;
+     position: absolute;
+     font-size: 11px;
+ }
+ .nav-link{
+     color: rgb(255, 255, 255);
+ }
+ td{
+    padding: 20px 100px;
+   
+ }
+ i{
+     cursor: pointer;
+ }
+ table,tr,td{
+     border:2px solid black
+ }
+ form{
+     display: block;
+     margin-top: 100px;
+     margin-left:  auto;
+     margin-right: auto;
+   
+ }
+ [class|="col"] p{
+     background: gainsboro !important;
+
+}
+input,label{
+
+
+    margin-top: 10px !important;
+}
